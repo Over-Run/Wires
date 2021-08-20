@@ -1,0 +1,7 @@
+{
+  "block.wires.insulator": "Insulator",
+
+  "item.wires.wires": "Wires",
+
+  "itemGroup.wires.main": "Wires"
+}

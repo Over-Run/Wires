@@ -1,0 +1,62 @@
+{
+  "variants": {
+    "facing=up,powered=false": {
+      "model": "wires:block/insulator",
+      "uvlock": true
+    },
+    "facing=up,powered=true": {
+      "model": "wires:block/insulator",
+      "uvlock": true
+    },
+    "facing=down,powered=false": {
+      "model": "wires:block/insulator",
+      "x": 180,
+      "uvlock": true
+    },
+    "facing=down,powered=true": {
+      "model": "wires:block/insulator",
+      "x": 180,
+      "uvlock": true
+    },
+    "facing=east,powered=false": {
+      "model": "wires:block/insulator",
+      "z": -90,
+      "uvlock": true
+    },
+    "facing=east,powered=true": {
+      "model": "wires:block/insulator",
+      "z": -90,
+      "uvlock": true
+    },
+    "facing=west,powered=false": {
+      "model": "wires:block/insulator",
+      "z": 90,
+      "uvlock": true
+    },
+    "facing=west,powered=true": {
+      "model": "wires:block/insulator",
+      "z": 90,
+      "uvlock": true
+    },
+    "facing=north,powered=false": {
+      "model": "wires:block/insulator",
+      "x": -90,
+      "uvlock": true
+    },
+    "facing=north,powered=true": {
+      "model": "wires:block/insulator",
+      "x": -90,
+      "uvlock": true
+    },
+    "facing=south,powered=false": {
+      "model": "wires:block/insulator",
+      "x": 90,
+      "uvlock": true
+    },
+    "facing=south,powered=true": {
+      "model": "wires:block/insulator",
+      "x": 90,
+      "uvlock": true
+    }
+  }
+}
